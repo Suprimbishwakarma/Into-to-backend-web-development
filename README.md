@@ -1,4 +1,4 @@
-# Into to Backend Web Development
+# Intro to Backend Web Development
 
 A robust backend API built with Node.js, Express.js, and MongoDB, designed to demonstrate core backend concepts including user authentication and CRUD operations for posts.
 
